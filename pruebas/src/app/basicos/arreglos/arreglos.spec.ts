@@ -1,6 +1,6 @@
 import { obtenerRobos } from './arreglos';
 
-describe('Prueba de arreglos', () => {
+xdescribe('Prueba de arreglos', () => {
   it('debe retornar almenos 3 robost', () => {
     const rest = obtenerRobos();
 
